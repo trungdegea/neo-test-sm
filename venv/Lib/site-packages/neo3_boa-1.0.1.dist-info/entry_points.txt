@@ -1,0 +1,4 @@
+[console_scripts]
+install_cpm = boa3.cpm:main
+neo3-boa = boa3.cli:main
+

@@ -1,0 +1,32 @@
+{
+    "name": "neo-world",
+    "groups": [],
+    "abi": {
+        "methods": [
+            {
+                "name": "main",
+                "offset": 0,
+                "parameters": [],
+                "safe": false,
+                "returntype": "Void"
+            },
+            {
+                "name": "get_saved_data",
+                "offset": 69,
+                "parameters": [],
+                "safe": false,
+                "returntype": "ByteArray"
+            }
+        ],
+        "events": []
+    },
+    "permissions": [],
+    "trusts": [],
+    "features": {},
+    "supportedstandards": [],
+    "extra": {
+        "Author": "Hermes test contract NEO3",
+        "Email": "trungdegea30032000@gmail.com",
+        "Description": "This is a contract example to store data on NEO3"
+    }
+}
